@@ -1,11 +1,3 @@
-//
-//  deliverMoney.c
-//  5thlab
-//
-//  Created by Admin on 28.03.16.
-//  Copyright © 2016 Admin. All rights reserved.
-//
-
 #include <stdio.h>
 #include "cli.h"
 
