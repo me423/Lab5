@@ -1,11 +1,3 @@
-//
-//  deleteClient.c
-//  lab5
-//
-//  Created by Иван Матяш on 3/27/16.
-//  Copyright (c) 2016 Иван Матяш. All rights reserved.
-//
-
 #include <stdio.h>
 #include "cli.h"
 
