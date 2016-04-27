@@ -114,16 +114,3 @@ BOOL provideOverdraft(int idAccount, double sum)
     }
     
 }
-/*
-int main()
-{
-    int rc = 0;
-    rc = sqlite3_open("/Users/ivanMatyash/Desktop/lab5/lab5/BANK_DB.db", &db);
-    
-    startProvideOverdraft();
-    
-    
-    sqlite3_close(db);
-    return 0;
-}
-*/
