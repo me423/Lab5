@@ -123,17 +123,3 @@ BOOL createNewAccount(double balance, int clientId, char* type)
    
     
 }
-
-/*
-int main()
-{
-    int rc = 0;
-    rc = sqlite3_open("/Users/ivanMatyash/Desktop/lab5/lab5/BANK_DB.db", &db);
-    
-    startCreateNewAccount();
-    
-    
-    sqlite3_close(db);
-    return 0;
-}
-*/
