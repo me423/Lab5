@@ -97,16 +97,3 @@ BOOL deleteAccount(int idAccount)
     }
     free(str);
 }
-/*
-int main()
-{
-    int rc = 0;
-    rc = sqlite3_open("/Users/ivanMatyash/Desktop/lab5/lab5/BANK_DB.db", &db);
-    
-    startDeleteAccount();
-    
-    
-    sqlite3_close(db);
-    return 0;
-}
-*/
